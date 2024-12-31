@@ -1,0 +1,27 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "testingdeploypsql",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "clientTheme": null,
+    "creationTimestamp": 1735654655160,
+    "databaseType": "sql",
+    "enableHibernateCache": true,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.8.0",
+    "jwtSecretKey": "mySecretKey",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "prodDatabaseType": "postgresql",
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "testFrameworks": ["cypress", "gatling"],
+    "websocket": "spring-websocket"
+  }
+}
